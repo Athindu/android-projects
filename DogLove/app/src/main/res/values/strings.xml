@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Bow Love</string>
+    <string name="btn_breed">Identify the Breed</string>
+    <string name="btn_dog">Identify the Dog</string>
+    <string name="btn_search">Search Dog Breeds</string>
+    <string name="countdown_timer">Countdown TImer</string>
+    <string name="breed">Breed</string>
+    <string name="dg">Dog</string>
+    <string name="se">Search</string>
+    <string name="message1">Identify the following dog breed...</string>
+    <string name="time">0</string>
+    <string name="time_cal">Time:</string>
+    <string name="image_breed">Image of the breed</string>
+    <string name="correct_wrong">Correct/Wrong</string>
+    <string name="submit">Submit</string>
+    <string name="message2">Identify the dog image matches to the breed...</string>
+    <string name="breed_check">Breed:</string>
+    <string name="breed_name">breed name</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+    <string name="image3">image3</string>
+    <string name="answer">Answer</string>
+    <string name="next_btn">Next</string>
+    <string name="message3">Search for a dog breed...</string>
+    <string name="stop">Stop</string>
+    <string name="slideshow_image">slideshow image</string>
+    <string name="submit_btn">Submit</string>
+
+    <string name="dog1"> 1st dog</string>
+    <string name="dog2"> 2nd dog</string>
+    <string name="dog3"> 3rd dog</string>
+    <string name="searchText">Breed...</string>
+    <string name="msg">Type a Dog Breed...</string>
+
+
+    <string-array name="breeds">
+        <item>Rottweiler</item>
+        <item>Bullmastiff</item>
+        <item>Airedale</item>
+        <item>Basset</item>
+        <item>Beagle</item>
+        <item>Boxer</item>
+        <item>Collie</item>
+        <item>Dhole</item>
+        <item>Doberman</item>
+        <item>Keeshond</item>
+        <item>Blenheim Spaniel</item>
+        <item>Bullmastiff</item>
+        <item>Golden retriever</item>
+        <item>Labrador retriever</item>
+        <item>Siberian husky</item>
+        <item>Silky terrier</item>
+    </string-array>
+
+
+</resources>
