@@ -1,5 +1,9 @@
-# Android-Projects
+# Android Projects
 
-Android Studio and Java is used for the development of mobile application.
+## Overview
 
-## Few simple native android applications
+Few simple android projects. (Tool - Android Studio)
+
+
+## Author
+Athindu Umayanga : [@Athindu](https://github.com/Athindu)
